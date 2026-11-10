@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "African Healthcare Indicators Analysis (2010–2023)"
+version: "1.0.0"
+date-released: "2026-11-09"
+authors:
+  - family-names: "Folasunkanmi"
+    given-names: ""
+repository-code: "https://github.com/folasunkanmi/Africa_heathcare_indicator_solution"
+url: "https://github.com/folasunkanmi/Africa_heathcare_indicator_solution"
+abstract: "Exploratory data analysis and visualization of key healthcare indicators (life expectancy, under-five mortality, DPT immunization, health expenditure) across 10 African countries from 2010 to 2023 using Python (pandas, matplotlib, seaborn). Data sourced from the World Bank World Development Indicators."
+keywords:
+  - healthcare
+  - Africa
+  - life expectancy
+  - under-five mortality
+  - immunization
+  - health expenditure
+  - World Bank
+  - pandas
+  - data visualization
+  - exploratory data analysis
+license: MIT
